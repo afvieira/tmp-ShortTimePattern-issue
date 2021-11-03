@@ -25,6 +25,7 @@ namespace ShortTimePatternIssue // Note: actual namespace depends on the project
             Console.WriteLine("[shortTimePatternCurrentUICult] 2021/10/01 15:00:30 ----> " + new DateTime(2021,10,1,15,0,30).ToString(shortTimePatternCurrentUiCult));
             Console.WriteLine("[ShortTimePattern] 2021/10/01 15:00:30 -----------------> " + new DateTime(2021,10,1,15,0,30).ToString(shortTimePatternInstalledUiCult));
             Console.WriteLine("[ShortTimePattern] 2021/10/01 15:00:30 -----------------> " + new DateTime(2021,10,1,15,0,30).ToString(shortTimePatternInstalledUiCult));
+            Console.ReadLine();
         }
     }
 }

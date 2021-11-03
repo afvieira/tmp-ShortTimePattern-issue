@@ -1,21 +1,21 @@
 {
   "runtimeTarget": {
-    "name": ".NETCoreApp,Version=v5.0/win-x64",
+    "name": ".NETCoreApp,Version=v5.0/osx-x64",
     "signature": ""
   },
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {},
-    ".NETCoreApp,Version=v5.0/win-x64": {
+    ".NETCoreApp,Version=v5.0/osx-x64": {
       "shortTimePatternIssue/1.0.0": {
         "dependencies": {
-          "runtimepack.Microsoft.NETCore.App.Runtime.win-x64": "5.0.0"
+          "runtimepack.Microsoft.NETCore.App.Runtime.osx-x64": "5.0.0"
         },
         "runtime": {
           "shortTimePatternIssue.dll": {}
         }
       },
-      "runtimepack.Microsoft.NETCore.App.Runtime.win-x64/5.0.0": {
+      "runtimepack.Microsoft.NETCore.App.Runtime.osx-x64/5.0.0": {
         "runtime": {
           "Microsoft.CSharp.dll": {
             "assemblyVersion": "5.0.0.0",
@@ -411,7 +411,7 @@
           },
           "System.Runtime.CompilerServices.Unsafe.dll": {
             "assemblyVersion": "5.0.0.0",
-            "fileVersion": "5.0.20.51904"
+            "fileVersion": "0.0.0.0"
           },
           "System.Runtime.CompilerServices.VisualC.dll": {
             "assemblyVersion": "5.0.0.0",
@@ -675,170 +675,59 @@
           }
         },
         "native": {
-          "Microsoft.DiaSymReader.Native.amd64.dll": {
-            "fileVersion": "14.12.25830.2"
+          "createdump": {
+            "fileVersion": "0.0.0.0"
           },
-          "api-ms-win-core-console-l1-1-0.dll": {
-            "fileVersion": "10.0.19041.1"
+          "libSystem.IO.Compression.Native.a": {
+            "fileVersion": "0.0.0.0"
           },
-          "api-ms-win-core-console-l1-2-0.dll": {
-            "fileVersion": "10.0.19041.1"
+          "libSystem.IO.Compression.Native.dylib": {
+            "fileVersion": "0.0.0.0"
           },
-          "api-ms-win-core-datetime-l1-1-0.dll": {
-            "fileVersion": "10.0.19041.1"
+          "libSystem.Native.a": {
+            "fileVersion": "0.0.0.0"
           },
-          "api-ms-win-core-debug-l1-1-0.dll": {
-            "fileVersion": "10.0.19041.1"
+          "libSystem.Native.dylib": {
+            "fileVersion": "0.0.0.0"
           },
-          "api-ms-win-core-errorhandling-l1-1-0.dll": {
-            "fileVersion": "10.0.19041.1"
+          "libSystem.Net.Security.Native.a": {
+            "fileVersion": "0.0.0.0"
           },
-          "api-ms-win-core-file-l1-1-0.dll": {
-            "fileVersion": "10.0.19041.1"
+          "libSystem.Net.Security.Native.dylib": {
+            "fileVersion": "0.0.0.0"
           },
-          "api-ms-win-core-file-l1-2-0.dll": {
-            "fileVersion": "10.0.19041.1"
+          "libSystem.Security.Cryptography.Native.Apple.a": {
+            "fileVersion": "0.0.0.0"
           },
-          "api-ms-win-core-file-l2-1-0.dll": {
-            "fileVersion": "10.0.19041.1"
+          "libSystem.Security.Cryptography.Native.Apple.dylib": {
+            "fileVersion": "0.0.0.0"
           },
-          "api-ms-win-core-handle-l1-1-0.dll": {
-            "fileVersion": "10.0.19041.1"
+          "libSystem.Security.Cryptography.Native.OpenSsl.a": {
+            "fileVersion": "0.0.0.0"
           },
-          "api-ms-win-core-heap-l1-1-0.dll": {
-            "fileVersion": "10.0.19041.1"
+          "libSystem.Security.Cryptography.Native.OpenSsl.dylib": {
+            "fileVersion": "0.0.0.0"
           },
-          "api-ms-win-core-interlocked-l1-1-0.dll": {
-            "fileVersion": "10.0.19041.1"
+          "libclrjit.dylib": {
+            "fileVersion": "0.0.0.0"
           },
-          "api-ms-win-core-libraryloader-l1-1-0.dll": {
-            "fileVersion": "10.0.19041.1"
+          "libcoreclr.dylib": {
+            "fileVersion": "0.0.0.0"
           },
-          "api-ms-win-core-localization-l1-2-0.dll": {
-            "fileVersion": "10.0.19041.1"
+          "libdbgshim.dylib": {
+            "fileVersion": "0.0.0.0"
           },
-          "api-ms-win-core-memory-l1-1-0.dll": {
-            "fileVersion": "10.0.19041.1"
+          "libhostfxr.dylib": {
+            "fileVersion": "0.0.0.0"
           },
-          "api-ms-win-core-namedpipe-l1-1-0.dll": {
-            "fileVersion": "10.0.19041.1"
+          "libhostpolicy.dylib": {
+            "fileVersion": "0.0.0.0"
           },
-          "api-ms-win-core-processenvironment-l1-1-0.dll": {
-            "fileVersion": "10.0.19041.1"
+          "libmscordaccore.dylib": {
+            "fileVersion": "0.0.0.0"
           },
-          "api-ms-win-core-processthreads-l1-1-0.dll": {
-            "fileVersion": "10.0.19041.1"
-          },
-          "api-ms-win-core-processthreads-l1-1-1.dll": {
-            "fileVersion": "10.0.19041.1"
-          },
-          "api-ms-win-core-profile-l1-1-0.dll": {
-            "fileVersion": "10.0.19041.1"
-          },
-          "api-ms-win-core-rtlsupport-l1-1-0.dll": {
-            "fileVersion": "10.0.19041.1"
-          },
-          "api-ms-win-core-string-l1-1-0.dll": {
-            "fileVersion": "10.0.19041.1"
-          },
-          "api-ms-win-core-synch-l1-1-0.dll": {
-            "fileVersion": "10.0.19041.1"
-          },
-          "api-ms-win-core-synch-l1-2-0.dll": {
-            "fileVersion": "10.0.19041.1"
-          },
-          "api-ms-win-core-sysinfo-l1-1-0.dll": {
-            "fileVersion": "10.0.19041.1"
-          },
-          "api-ms-win-core-timezone-l1-1-0.dll": {
-            "fileVersion": "10.0.19041.1"
-          },
-          "api-ms-win-core-util-l1-1-0.dll": {
-            "fileVersion": "10.0.19041.1"
-          },
-          "api-ms-win-crt-conio-l1-1-0.dll": {
-            "fileVersion": "10.0.19041.1"
-          },
-          "api-ms-win-crt-convert-l1-1-0.dll": {
-            "fileVersion": "10.0.19041.1"
-          },
-          "api-ms-win-crt-environment-l1-1-0.dll": {
-            "fileVersion": "10.0.19041.1"
-          },
-          "api-ms-win-crt-filesystem-l1-1-0.dll": {
-            "fileVersion": "10.0.19041.1"
-          },
-          "api-ms-win-crt-heap-l1-1-0.dll": {
-            "fileVersion": "10.0.19041.1"
-          },
-          "api-ms-win-crt-locale-l1-1-0.dll": {
-            "fileVersion": "10.0.19041.1"
-          },
-          "api-ms-win-crt-math-l1-1-0.dll": {
-            "fileVersion": "10.0.19041.1"
-          },
-          "api-ms-win-crt-multibyte-l1-1-0.dll": {
-            "fileVersion": "10.0.19041.1"
-          },
-          "api-ms-win-crt-private-l1-1-0.dll": {
-            "fileVersion": "10.0.19041.1"
-          },
-          "api-ms-win-crt-process-l1-1-0.dll": {
-            "fileVersion": "10.0.19041.1"
-          },
-          "api-ms-win-crt-runtime-l1-1-0.dll": {
-            "fileVersion": "10.0.19041.1"
-          },
-          "api-ms-win-crt-stdio-l1-1-0.dll": {
-            "fileVersion": "10.0.19041.1"
-          },
-          "api-ms-win-crt-string-l1-1-0.dll": {
-            "fileVersion": "10.0.19041.1"
-          },
-          "api-ms-win-crt-time-l1-1-0.dll": {
-            "fileVersion": "10.0.19041.1"
-          },
-          "api-ms-win-crt-utility-l1-1-0.dll": {
-            "fileVersion": "10.0.19041.1"
-          },
-          "clrcompression.dll": {
-            "fileVersion": "42.42.42.42424"
-          },
-          "clretwrc.dll": {
-            "fileVersion": "5.0.20.51904"
-          },
-          "clrjit.dll": {
-            "fileVersion": "5.0.20.51904"
-          },
-          "coreclr.dll": {
-            "fileVersion": "5.0.20.51904"
-          },
-          "createdump.exe": {
-            "fileVersion": "5.0.20.51904"
-          },
-          "dbgshim.dll": {
-            "fileVersion": "5.0.20.51904"
-          },
-          "hostfxr.dll": {
-            "fileVersion": "5.0.20.51904"
-          },
-          "hostpolicy.dll": {
-            "fileVersion": "5.0.20.51904"
-          },
-          "mscordaccore.dll": {
-            "fileVersion": "5.0.20.51904"
-          },
-          "mscordaccore_amd64_amd64_5.0.20.51904.dll": {
-            "fileVersion": "5.0.20.51904"
-          },
-          "mscordbi.dll": {
-            "fileVersion": "5.0.20.51904"
-          },
-          "mscorrc.dll": {
-            "fileVersion": "5.0.20.51904"
-          },
-          "ucrtbase.dll": {
-            "fileVersion": "10.0.19041.1"
+          "libmscordbi.dylib": {
+            "fileVersion": "0.0.0.0"
           }
         }
       }
@@ -850,135 +739,121 @@
       "serviceable": false,
       "sha512": ""
     },
-    "runtimepack.Microsoft.NETCore.App.Runtime.win-x64/5.0.0": {
+    "runtimepack.Microsoft.NETCore.App.Runtime.osx-x64/5.0.0": {
       "type": "runtimepack",
       "serviceable": false,
       "sha512": ""
     }
   },
   "runtimes": {
-    "win-x64": [
-      "win",
+    "osx-x64": [
+      "osx",
+      "unix-x64",
+      "unix",
       "any",
       "base"
     ],
-    "win-x64-aot": [
-      "win-aot",
-      "win-x64",
-      "win",
-      "aot",
+    "osx.10.10-x64": [
+      "osx.10.10",
+      "osx-x64",
+      "osx",
+      "unix-x64",
+      "unix",
       "any",
       "base"
     ],
-    "win10-x64": [
-      "win10",
-      "win81-x64",
-      "win81",
-      "win8-x64",
-      "win8",
-      "win7-x64",
-      "win7",
-      "win-x64",
-      "win",
+    "osx.10.11-x64": [
+      "osx.10.11",
+      "osx.10.10-x64",
+      "osx.10.10",
+      "osx-x64",
+      "osx",
+      "unix-x64",
+      "unix",
       "any",
       "base"
     ],
-    "win10-x64-aot": [
-      "win10-aot",
-      "win10-x64",
-      "win10",
-      "win81-x64-aot",
-      "win81-aot",
-      "win81-x64",
-      "win81",
-      "win8-x64-aot",
-      "win8-aot",
-      "win8-x64",
-      "win8",
-      "win7-x64-aot",
-      "win7-aot",
-      "win7-x64",
-      "win7",
-      "win-x64-aot",
-      "win-aot",
-      "win-x64",
-      "win",
-      "aot",
+    "osx.10.12-x64": [
+      "osx.10.12",
+      "osx.10.11-x64",
+      "osx.10.11",
+      "osx.10.10-x64",
+      "osx.10.10",
+      "osx-x64",
+      "osx",
+      "unix-x64",
+      "unix",
       "any",
       "base"
     ],
-    "win7-x64": [
-      "win7",
-      "win-x64",
-      "win",
+    "osx.10.13-x64": [
+      "osx.10.13",
+      "osx.10.12-x64",
+      "osx.10.12",
+      "osx.10.11-x64",
+      "osx.10.11",
+      "osx.10.10-x64",
+      "osx.10.10",
+      "osx-x64",
+      "osx",
+      "unix-x64",
+      "unix",
       "any",
       "base"
     ],
-    "win7-x64-aot": [
-      "win7-aot",
-      "win7-x64",
-      "win7",
-      "win-x64-aot",
-      "win-aot",
-      "win-x64",
-      "win",
-      "aot",
+    "osx.10.14-x64": [
+      "osx.10.14",
+      "osx.10.13-x64",
+      "osx.10.13",
+      "osx.10.12-x64",
+      "osx.10.12",
+      "osx.10.11-x64",
+      "osx.10.11",
+      "osx.10.10-x64",
+      "osx.10.10",
+      "osx-x64",
+      "osx",
+      "unix-x64",
+      "unix",
       "any",
       "base"
     ],
-    "win8-x64": [
-      "win8",
-      "win7-x64",
-      "win7",
-      "win-x64",
-      "win",
+    "osx.10.15-x64": [
+      "osx.10.15",
+      "osx.10.14-x64",
+      "osx.10.14",
+      "osx.10.13-x64",
+      "osx.10.13",
+      "osx.10.12-x64",
+      "osx.10.12",
+      "osx.10.11-x64",
+      "osx.10.11",
+      "osx.10.10-x64",
+      "osx.10.10",
+      "osx-x64",
+      "osx",
+      "unix-x64",
+      "unix",
       "any",
       "base"
     ],
-    "win8-x64-aot": [
-      "win8-aot",
-      "win8-x64",
-      "win8",
-      "win7-x64-aot",
-      "win7-aot",
-      "win7-x64",
-      "win7",
-      "win-x64-aot",
-      "win-aot",
-      "win-x64",
-      "win",
-      "aot",
+    "osx.11-x64": [
+      "osx.11",
+      "osx-x64",
+      "osx",
+      "unix-x64",
+      "unix",
       "any",
       "base"
     ],
-    "win81-x64": [
-      "win81",
-      "win8-x64",
-      "win8",
-      "win7-x64",
-      "win7",
-      "win-x64",
-      "win",
-      "any",
-      "base"
-    ],
-    "win81-x64-aot": [
-      "win81-aot",
-      "win81-x64",
-      "win81",
-      "win8-x64-aot",
-      "win8-aot",
-      "win8-x64",
-      "win8",
-      "win7-x64-aot",
-      "win7-aot",
-      "win7-x64",
-      "win7",
-      "win-x64-aot",
-      "win-aot",
-      "win-x64",
-      "win",
-      "aot",
+    "osx.11.0-x64": [
+      "osx.11.0",
+      "osx.11-x64",
+      "osx.11",
+      "osx-x64",
+      "osx",
+      "unix-x64",
+      "unix",
       "any",
       "base"
     ]
