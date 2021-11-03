@@ -19,12 +19,10 @@ namespace ShortTimePatternIssue // Note: actual namespace depends on the project
             var currentUiCulture = CultureInfo.CurrentUICulture;
             var shortTimePatternCurrentUiCult = currentUiCulture.DateTimeFormat.ShortTimePattern;
 
-            Console.WriteLine("[shortTimePatternInstalledUICult] 2021/10/01 15:00:30 --> " + new DateTime(2021,10,1,15,0,30).ToString(shortTimePatternInstalledUiCult));
-            Console.WriteLine("[shortTimePatternCurrentCult] 2021/10/01 15:00:30 ------> " + new DateTime(2021,10,1,15,0,30).ToString(shortTimePatternCurrentCult));
-            Console.WriteLine("[shortTimePatternInvariantCult] 2021/10/01 15:00:30 ----> " + new DateTime(2021,10,1,15,0,30).ToString(shortTimePatternInvariantCult));
-            Console.WriteLine("[shortTimePatternCurrentUICult] 2021/10/01 15:00:30 ----> " + new DateTime(2021,10,1,15,0,30).ToString(shortTimePatternCurrentUiCult));
-            Console.WriteLine("[ShortTimePattern] 2021/10/01 15:00:30 -----------------> " + new DateTime(2021,10,1,15,0,30).ToString(shortTimePatternInstalledUiCult));
-            Console.WriteLine("[ShortTimePattern] 2021/10/01 15:00:30 -----------------> " + new DateTime(2021,10,1,15,0,30).ToString(shortTimePatternInstalledUiCult));
+            Console.WriteLine("[shortTimePattern InstalledUICult] 2021/10/01 15:00:30 --> " + new DateTime(2021,10,1,15,0,30).ToString(shortTimePatternInstalledUiCult));
+            Console.WriteLine("[shortTimePattern CurrentCult] 2021/10/01 15:00:30 ------> " + new DateTime(2021,10,1,15,0,30).ToString(shortTimePatternCurrentCult));
+            Console.WriteLine("[shortTimePattern InvariantCult] 2021/10/01 15:00:30 ----> " + new DateTime(2021,10,1,15,0,30).ToString(shortTimePatternInvariantCult));
+            Console.WriteLine("[shortTimePattern CurrentUICult] 2021/10/01 15:00:30 ----> " + new DateTime(2021,10,1,15,0,30).ToString(shortTimePatternCurrentUiCult));
             Console.ReadLine();
         }
     }
