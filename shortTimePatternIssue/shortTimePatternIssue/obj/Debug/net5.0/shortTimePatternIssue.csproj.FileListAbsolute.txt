@@ -1,0 +1,15 @@
+/Users/apv/Projects/tmp-ShortTimePattern-issue/shortTimePatternIssue/shortTimePatternIssue/obj/Debug/net5.0/shortTimePatternIssue.csprojAssemblyReference.cache
+/Users/apv/Projects/tmp-ShortTimePattern-issue/shortTimePatternIssue/shortTimePatternIssue/obj/Debug/net5.0/shortTimePatternIssue.GeneratedMSBuildEditorConfig.editorconfig
+/Users/apv/Projects/tmp-ShortTimePattern-issue/shortTimePatternIssue/shortTimePatternIssue/obj/Debug/net5.0/shortTimePatternIssue.AssemblyInfoInputs.cache
+/Users/apv/Projects/tmp-ShortTimePattern-issue/shortTimePatternIssue/shortTimePatternIssue/obj/Debug/net5.0/shortTimePatternIssue.AssemblyInfo.cs
+/Users/apv/Projects/tmp-ShortTimePattern-issue/shortTimePatternIssue/shortTimePatternIssue/obj/Debug/net5.0/shortTimePatternIssue.csproj.CoreCompileInputs.cache
+/Users/apv/Projects/tmp-ShortTimePattern-issue/shortTimePatternIssue/shortTimePatternIssue/bin/Debug/net5.0/shortTimePatternIssue.deps.json
+/Users/apv/Projects/tmp-ShortTimePattern-issue/shortTimePatternIssue/shortTimePatternIssue/bin/Debug/net5.0/shortTimePatternIssue.runtimeconfig.json
+/Users/apv/Projects/tmp-ShortTimePattern-issue/shortTimePatternIssue/shortTimePatternIssue/bin/Debug/net5.0/shortTimePatternIssue.runtimeconfig.dev.json
+/Users/apv/Projects/tmp-ShortTimePattern-issue/shortTimePatternIssue/shortTimePatternIssue/bin/Debug/net5.0/shortTimePatternIssue.dll
+/Users/apv/Projects/tmp-ShortTimePattern-issue/shortTimePatternIssue/shortTimePatternIssue/bin/Debug/net5.0/ref/shortTimePatternIssue.dll
+/Users/apv/Projects/tmp-ShortTimePattern-issue/shortTimePatternIssue/shortTimePatternIssue/bin/Debug/net5.0/shortTimePatternIssue.pdb
+/Users/apv/Projects/tmp-ShortTimePattern-issue/shortTimePatternIssue/shortTimePatternIssue/obj/Debug/net5.0/shortTimePatternIssue.dll
+/Users/apv/Projects/tmp-ShortTimePattern-issue/shortTimePatternIssue/shortTimePatternIssue/obj/Debug/net5.0/ref/shortTimePatternIssue.dll
+/Users/apv/Projects/tmp-ShortTimePattern-issue/shortTimePatternIssue/shortTimePatternIssue/obj/Debug/net5.0/shortTimePatternIssue.pdb
+/Users/apv/Projects/tmp-ShortTimePattern-issue/shortTimePatternIssue/shortTimePatternIssue/obj/Debug/net5.0/shortTimePatternIssue.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "D2k8X5537yFHmNr4PN9z7LWFCppItYt9UJaomrK5y2siZITHyiSPjMctYjyZrr+SWRb7pCww4RhPbI4zMRGegA==",
+  "success": true,
+  "projectFilePath": "/Users/apv/Projects/tmp-ShortTimePattern-issue/shortTimePatternIssue/shortTimePatternIssue/shortTimePatternIssue.csproj",
+  "expectedPackageFiles": [
+    "/Users/apv/.nuget/packages/microsoft.netcore.app.runtime.win-x64/5.0.0/microsoft.netcore.app.runtime.win-x64.5.0.0.nupkg.sha512",
+    "/Users/apv/.nuget/packages/microsoft.aspnetcore.app.runtime.win-x64/5.0.0/microsoft.aspnetcore.app.runtime.win-x64.5.0.0.nupkg.sha512",
+    "/Users/apv/.nuget/packages/microsoft.netcore.app.host.win-x64/5.0.0/microsoft.netcore.app.host.win-x64.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

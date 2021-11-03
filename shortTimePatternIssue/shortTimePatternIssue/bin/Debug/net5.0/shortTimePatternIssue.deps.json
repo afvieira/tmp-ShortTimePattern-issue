@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "shortTimePatternIssue/1.0.0": {
+        "runtime": {
+          "shortTimePatternIssue.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "shortTimePatternIssue/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
